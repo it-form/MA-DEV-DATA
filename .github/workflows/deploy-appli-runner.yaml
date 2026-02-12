@@ -13,4 +13,4 @@ jobs:
        - name: Apply desired state
          run: |
            chmod +x scripts/apply_state.sh
-           ./scripts/apply_state.sh
+           scripts/apply_state.sh
